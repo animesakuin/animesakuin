@@ -1,2 +1,3 @@
 # animesakuin
-Anime Sakuin
+Gomen Anime Sakuin
+http://animesakuin.blogspot.com/
