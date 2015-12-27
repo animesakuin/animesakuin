@@ -1,0 +1,6 @@
+#loadingHalaman {
+overflow:hidden;
+background:url(http://1.bp.blogspot.com/-YgvNEQbnq7A/VH8fzJGPrYI/AAAAAAAAASM/PgVqyBMZMyw/s1600/Preloader_2.gif) no-repeat center;
+background-color:#ffffff;
+width:100%;height:100%;
+position: fixed; left: 0px; top:0px; z-index: +100000;
