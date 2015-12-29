@@ -1,7 +1,0 @@
-#loadingHalaman {
-overflow:auto;
-background:url(http://1.bp.blogspot.com/-YgvNEQbnq7A/VH8fzJGPrYI/AAAAAAAAASM/PgVqyBMZMyw/s1600/Preloader_2.gif) no-repeat center;
-background:linear-gradient(#ff0000,#fff);
-width:100%;height:100%;
-position: fixed; left: 0px; top:0px; z-index: +100000;
-}
